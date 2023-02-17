@@ -4,7 +4,7 @@ import useUserStore from "@/stores/user";
 
 const Home = () => import("@/views/HomeView.vue");
 const About = () => import("@/views/AboutView.vue");
-const Manage = () => import("@/views/ManageView.vue");
+const Manage = () => import("@/views/ManageView.ue");
 const NotFound = () => import("@/views/NotFoundView.vue");
 const Song = () => import("@/views/SongView.vue");
 

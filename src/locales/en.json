@@ -1,0 +1,71 @@
+{
+  "home": {
+    "listen": "Listen to Great Music!",
+    "songs": "Songs"
+  },
+  "header": {
+    "about": "About",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "manage": "Manage"
+  },
+  "auth": {
+    "account": "Your account",
+    "login": "Login",
+    "register": "Register"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login"
+  },
+  "manage": {
+    "songs": "My songs"
+  },
+  "upload": {
+    "upload": "Upload",
+    "drop": "Drop your songs here"
+  },
+  "songEdit": {
+    "title": "Song title",
+    "genre": "Genre",
+    "submit": "Submit",
+    "back": "Go back"
+  },
+  "register": {
+    "name": "Name",
+    "email": "Email",
+    "age": "Age",
+    "role": "Role",
+    "admin": "Admin",
+    "listener": "Listener",
+    "musician": "Musician",
+    "producer": "Producer",
+    "password": "Password",
+    "passwordConfirmation": "Confirm password",
+    "country": "Country",
+    "usa": "USA",
+    "mexico": "Mexico",
+    "germany": "Germany",
+    "andorra": "Andorra",
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service.",
+    "submit": "Submit"
+  },
+
+  "song": {
+    "commentCount": "No comments | 1 comment | {count} comments",
+    "submit": "Submit",
+    "latest": "Latest",
+    "oldest": "Oldest"
+  },
+
+  "about": {
+    "text": "hello world!"
+  },
+  "404": {
+    "desc": "This page does not exist",
+    "link": "Click here to go back to the home page"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "home": {
+    "listen": "Escolta bona música!",
+    "songs": "Cançons"
+  },
+  "header": {
+    "about": "Sobre l'app",
+    "login": "Login",
+    "register": "Registre",
+    "logout": "Logout",
+    "manage": "Gestió"
+  },
+  "auth": {
+    "account": "La teva compte",
+    "login": "Login",
+    "register": "Registre"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Contrassenya",
+    "login": "Login"
+  },
+  "register": {
+    "name": "Nom",
+    "email": "Email",
+    "age": "Edat",
+    "role": "Rol",
+    "admin": "Admin",
+    "listener": "Oient",
+    "musician": "Músic",
+    "producer": "Productor",
+    "password": "Contrassenya",
+    "passwordConfirmation": "Confirmar contrassenya",
+    "country": "País",
+    "usa": "EEUU",
+    "mexico": "Mèxic",
+    "germany": "Alemenya",
+    "andorra": "Andorra",
+    "accept": "Accepto els {0}",
+    "tos": "termes de servei.",
+    "submit": "Registre"
+  },
+  "manage": {
+    "songs": "Les meves cançons"
+  },
+  "upload": {
+    "upload": "Pujada",
+    "drop": "Deixa anar aquí les teves cançons"
+  },
+  "songEdit": {
+    "title": "Nom de la cançó",
+    "genre": "Gènere",
+    "submit": "Pujar",
+    "back": "Torna enrere"
+  },
+  "song": {
+    "commentCount": "Sense comentaris | 1 comentari |{count} comentaris",
+    "submit": "Pujar",
+    "latest": "Més noves primer",
+    "oldest": "Més antigues primer"
+  },
+
+  "about": {
+    "text": "Hola món!"
+  },
+  "404": {
+    "desc": "Aquesta pàgina no existeix",
+    "link": "Clica aquí per tornar a l'inici"
+  }
+}

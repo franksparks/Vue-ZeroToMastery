@@ -1,0 +1,70 @@
+{
+  "home": {
+    "listen": "Escucha música!",
+    "songs": "Canciones"
+  },
+  "header": {
+    "about": "Acerca de",
+    "login": "Login",
+    "register": "Registro",
+    "logout": "Logout",
+    "manage": "Gestión"
+  },
+  "auth": {
+    "account": "Tu cuenta",
+    "login": "Login",
+    "register": "Registro"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Contraseña",
+    "login": "Login"
+  },
+  "manage": {
+    "songs": "Mis canciones"
+  },
+  "upload": {
+    "upload": "Subida",
+    "drop": "Suelta aquí tus canciones"
+  },
+  "songEdit": {
+    "title": "Nombre de la canción",
+    "genre": "Género",
+    "submit": "Subir",
+    "back": "Volver atrás"
+  },
+  "song": {
+    "commentCount": "Sin comentarios| 1 comentario | {count} comentarios",
+    "submit": "Subir",
+    "latest": "Más nuevas primero",
+    "oldest": "Más antiguas primero"
+  },
+
+  "register": {
+    "name": "Nombre",
+    "email": "Email",
+    "age": "Edad",
+    "role": "Rol",
+    "admin": "Admin",
+    "listener": "Oyente",
+    "musician": "Músico",
+    "producer": "Productor",
+    "password": "Conrtaseña",
+    "passwordConfirmation": "Confirmar contraseña",
+    "country": "País",
+    "usa": "EEUU",
+    "mexico": "México",
+    "germany": "Alemania",
+    "andorra": "Andorra",
+    "accept": "Acepto los {0}",
+    "tos": "términos de servicio.",
+    "submit": "Registro"
+  },
+  "about": {
+    "text": "Hola mundo!"
+  },
+  "404": {
+    "desc": "La página no existe",
+    "link": "Haz click aquí para volver al inicio"
+  }
+}

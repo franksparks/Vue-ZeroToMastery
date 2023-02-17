@@ -63,7 +63,7 @@
   "about": {
     "text": "Hola món!"
   },
-  "404": {
+  "NotFound": {
     "desc": "Aquesta pàgina no existeix",
     "link": "Clica aquí per tornar a l'inici"
   }

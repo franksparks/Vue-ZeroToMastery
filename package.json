@@ -12,7 +12,11 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@npmcli/fs": "^3.1.0",
+    "@rollup/plugin-inject": "^5.0.3",
+    "@rollup/plugin-terser": "^0.4.0",
     "@vee-validate/rules": "^4.7.3",
+    "core-js": "^3.28.0",
     "firebase": "^8.10.1",
     "howler": "^2.2.3",
     "nprogress": "^0.2.0",

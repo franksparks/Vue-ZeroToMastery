@@ -53,14 +53,12 @@
     "tos": "Terms of Service.",
     "submit": "Submit"
   },
-
   "song": {
     "commentCount": "No comments | 1 comment | {count} comments",
     "submit": "Submit",
     "latest": "Latest",
     "oldest": "Oldest"
   },
-
   "about": {
     "text": "hello world!"
   },

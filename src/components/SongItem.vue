@@ -2,13 +2,14 @@
   <div>
     <li
       class="flex justify-between items-center p-3 pl-6 cursor-pointer transition duration-300 hover:bg-gray-50"
+      :id="`song-id-${song.docID}`"
     >
       <div>
         <RouterLink
           :to="{ name: 'song', params: { id: song.docID } }"
-          class="font-bold block text-gray-600"
-          >{{ song.modifiedName }}</RouterLink
-        >
+          class="font-bold block text-gray-600 composition-name"
+          >{{ song.modifiedName }}
+        </RouterLink>
         <span class="text-gray-500 text-sm">{{ song.genre }}</span>
       </div>
 

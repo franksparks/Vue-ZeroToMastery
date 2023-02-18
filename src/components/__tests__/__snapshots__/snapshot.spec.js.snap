@@ -1,0 +1,33 @@
+// Vitest Snapshot v1
+
+exports[`snapshot SongItem.vue > renders correctly 1`] = `
+<div>
+  <li
+    class="flex justify-between items-center p-3 pl-6 cursor-pointer transition duration-300 hover:bg-gray-50"
+    id="song-id-tabe"
+  >
+    <div>
+      <router-link-stub
+        ariacurrentvalue="page"
+        class="font-bold block text-gray-600"
+        custom="false"
+        replace="false"
+        to="[object Object]"
+      />
+      <span
+        class="text-gray-500 text-sm"
+      />
+    </div>
+    <div
+      class="text-gray-600 text-lg"
+    >
+      <router-link-stub
+        ariacurrentvalue="page"
+        custom="true"
+        replace="false"
+        to="[object Object]"
+      />
+    </div>
+  </li>
+</div>
+`;
